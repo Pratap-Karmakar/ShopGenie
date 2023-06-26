@@ -16,9 +16,9 @@ const NavbarBottom = () => {
             </div>
             <div className='flex items-center gap-2'>
               <GoLocation/>
-              <p className='text-sm text-zinc-100'>Master Colony, 722101</p>
+              <p className='text-sm text-zinc-100'>Master Colony, Cinema Road</p>
               <GoHome/>
-              <p className='text-sm text-zinc-100'>Cinema Road, Bankura</p>
+              <p className='text-sm text-zinc-100'>Bankura, 722101</p>
             </div>
         </div>
         <ul className='flex gap-6 text-sm font-semibold'>
